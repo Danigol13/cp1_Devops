@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace LifeShare.Models
+namespace CarWeb.Models
 {
     public class Carro
     {

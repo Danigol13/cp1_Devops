@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using LifeShare.Models;
+using CarWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LifeShare.Controllers
+namespace CarWeb.Controllers
 {
     public class LoginController : Controller
     {

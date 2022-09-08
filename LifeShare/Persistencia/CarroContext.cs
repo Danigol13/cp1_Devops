@@ -1,11 +1,11 @@
-﻿using LifeShare.Models;
+﻿using CarWeb.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace LifeShare.Persistencia
+namespace CarWeb.Persistencia
 {
     public class CarroContext : DbContext
     {

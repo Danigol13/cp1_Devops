@@ -1,6 +1,6 @@
 using System;
 
-namespace LifeShare.Models
+namespace CarWeb.Models
 {
     public class ErrorViewModel
     {

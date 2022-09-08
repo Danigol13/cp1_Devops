@@ -2,7 +2,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LifeShare.Models
+namespace CarWeb.Models
 {
     public class Login
     {

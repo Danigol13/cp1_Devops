@@ -1,4 +1,4 @@
-﻿namespace LifeShare.Models
+﻿namespace CarWeb.Models
 {
     public enum Status
     {

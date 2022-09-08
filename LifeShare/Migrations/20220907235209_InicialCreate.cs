@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace LifeShare.Migrations
+namespace CarWeb.Migrations
 {
     public partial class InicialCreate : Migration
     {

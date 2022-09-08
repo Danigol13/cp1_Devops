@@ -8801,11 +8801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danid\\source\\repos\\life-share\\LifeShare\\CarWeb.csproj",
+      "projectUniqueName": "C:\\Users\\danid\\OneDrive\\Área de Trabalho\\cp1_devops\\LifeShare\\CarWeb.csproj",
       "projectName": "CarWeb",
-      "projectPath": "C:\\Users\\danid\\source\\repos\\life-share\\LifeShare\\CarWeb.csproj",
+      "projectPath": "C:\\Users\\danid\\OneDrive\\Área de Trabalho\\cp1_devops\\LifeShare\\CarWeb.csproj",
       "packagesPath": "C:\\Users\\danid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danid\\source\\repos\\life-share\\LifeShare\\obj\\",
+      "outputPath": "C:\\Users\\danid\\OneDrive\\Área de Trabalho\\cp1_devops\\LifeShare\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danid\\AppData\\Roaming\\NuGet\\NuGet.Config",

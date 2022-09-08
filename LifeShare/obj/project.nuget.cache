@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0yxAl7YNmQcuz1t6lHoee3GSqeGP/MeXG71HV6kysqiFRCQxG4gQWgbZ5OV7X3RL4Qd3XvujqhKAE40ZQBFLrw==",
+  "dgSpecHash": "JqYUbooQ2SajkYKN6TphA8L5WS7xbEJfTN6jxzNZmZT3jAP8r2/hr15FNUdoBsasYdvl34N/1dbTUUUpuJKPOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danid\\source\\repos\\life-share\\LifeShare\\CarWeb.csproj",
+  "projectFilePath": "C:\\Users\\danid\\OneDrive\\Área de Trabalho\\cp1_devops\\LifeShare\\CarWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danid\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\danid\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
