@@ -1,0 +1,19 @@
+@model Login
+
+<div class="mx-auto form-group">
+    <span>Use: HybridInnovation@fiap.com</span>
+    <div class="form-control-div">
+        <input asp-for="Email" class="form-control" value="HybridInnovation@fiap.com" />
+    </div>
+</div>
+<div class="mx-auto form-group">
+    <span>use: fiap@123</span>
+    <div class="form-control-div"> 
+        <input asp-for="Senha" type="password" class="form-control" value="fiap@123" />
+    </div>
+</div>
+
+@if (TempData["msg"] != null)
+{
+<mensagem erro="@TempData["msg"]"></mensagem>
+}
